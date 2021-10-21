@@ -12,7 +12,7 @@ made GET requests with the node HTTPS module
 
 learned how to parse JSON
 
-used expresss to render a website with live api data 
+used express to render a website with live api data 
 
 parsed POST requests to the server
 
