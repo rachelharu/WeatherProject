@@ -8,7 +8,7 @@ api authentication
 
 learned what JSON is 
 
-made GEt requests with the node HTTPS module
+made GET requests with the node HTTPS module
 
 learned how to parse JSON
 
